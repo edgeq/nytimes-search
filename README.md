@@ -5,5 +5,5 @@ Contributors:
 1. Eva Simon
 2. Edge Quintanilla
 
-2. Brett Artmann
+3. Brett Artmann
 
